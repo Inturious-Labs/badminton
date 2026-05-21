@@ -3,6 +3,7 @@
 const SECTIONS = [
   { id: "overview", label: "Overview" },
   { id: "standings", label: "Standings" },
+  { id: "disciplines", label: "Disciplines" },
   { id: "team-spotlight", label: "Teams" },
   { id: "pair-leaderboards", label: "Pairs" },
 ];
