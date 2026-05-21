@@ -1,0 +1,22 @@
+# Mac
+.DS_Store
+
+# Python data pipeline (data/)
+data/.venv/
+data/__pycache__/
+data/*.pyc
+data/tournament.db
+
+# Next.js (web/)
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel
+web/next-env.d.ts
+web/*.tsbuildinfo
+
+# Editor / OS
+*.swp
+*.swo
+.idea/
+.vscode/

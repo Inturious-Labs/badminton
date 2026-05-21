@@ -1,0 +1,5734 @@
+{
+  "tournament": {
+    "id": 1,
+    "name": "2026 上海国际及双语学校家长羽毛球春季赛",
+    "year": 2026,
+    "start_date": "2026-05-20",
+    "venue": "上海思凯羽毛球馆（海阳路 1040 弄 40 号）",
+    "notes": "12 teams · 2 groups of 6 · round-robin · top 2 advance to semis. Rubber order MD→XD→WD, single game to 21."
+  },
+  "groups": [
+    {
+      "id": 1,
+      "name": "团体赛第1组",
+      "team_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "name": "团体赛第2组",
+      "team_ids": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "id": 3,
+      "name": "BISS",
+      "group_id": 1,
+      "roster": [
+        {
+          "player_id": 13,
+          "name": "Wayne Chang",
+          "gender": "M"
+        },
+        {
+          "player_id": 14,
+          "name": "蒋毅涛",
+          "gender": "M"
+        },
+        {
+          "player_id": 15,
+          "name": "Kyooung sun",
+          "gender": "M"
+        },
+        {
+          "player_id": 16,
+          "name": "李荣双",
+          "gender": "F"
+        },
+        {
+          "player_id": 17,
+          "name": "JIANGWEI",
+          "gender": "F"
+        },
+        {
+          "player_id": 18,
+          "name": "彭宥榛",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Concordia",
+      "group_id": 1,
+      "roster": [
+        {
+          "player_id": 7,
+          "name": "Eddy Wong",
+          "gender": "M"
+        },
+        {
+          "player_id": 8,
+          "name": "Jun Jiang",
+          "gender": "M"
+        },
+        {
+          "player_id": 9,
+          "name": "Xue Song Deng",
+          "gender": "M"
+        },
+        {
+          "player_id": 10,
+          "name": "Isabella Wong",
+          "gender": "F"
+        },
+        {
+          "player_id": 11,
+          "name": "Yuhui Zhang",
+          "gender": "F"
+        },
+        {
+          "player_id": 12,
+          "name": "肖向春",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "万科",
+      "group_id": 1,
+      "roster": [
+        {
+          "player_id": 19,
+          "name": "杨乃章",
+          "gender": "M"
+        },
+        {
+          "player_id": 20,
+          "name": "朱伟鹏",
+          "gender": "M"
+        },
+        {
+          "player_id": 21,
+          "name": "张楠",
+          "gender": "M"
+        },
+        {
+          "player_id": 22,
+          "name": "李珺",
+          "gender": "F"
+        },
+        {
+          "player_id": 23,
+          "name": "潘燕飞",
+          "gender": "F"
+        },
+        {
+          "player_id": 24,
+          "name": "张璟",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "包玉刚",
+      "group_id": 2,
+      "roster": [
+        {
+          "player_id": 49,
+          "name": "陈郁捷",
+          "gender": "M"
+        },
+        {
+          "player_id": 50,
+          "name": "Bruce Lau",
+          "gender": "M"
+        },
+        {
+          "player_id": 51,
+          "name": "石文海",
+          "gender": "M"
+        },
+        {
+          "player_id": 52,
+          "name": "李杨",
+          "gender": "F"
+        },
+        {
+          "player_id": 53,
+          "name": "黄冰源",
+          "gender": "F"
+        },
+        {
+          "player_id": 54,
+          "name": "Joanna Lim",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "协和浦东",
+      "group_id": 2,
+      "roster": [
+        {
+          "player_id": 67,
+          "name": "张吉臻",
+          "gender": "M"
+        },
+        {
+          "player_id": 68,
+          "name": "沈友良",
+          "gender": "M"
+        },
+        {
+          "player_id": 69,
+          "name": "严明",
+          "gender": "M"
+        },
+        {
+          "player_id": 70,
+          "name": "陆颖华",
+          "gender": "F"
+        },
+        {
+          "player_id": 71,
+          "name": "陈思",
+          "gender": "F"
+        },
+        {
+          "player_id": 72,
+          "name": "冯丽君",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "平和浦东",
+      "group_id": 2,
+      "roster": [
+        {
+          "player_id": 37,
+          "name": "褚劲华",
+          "gender": "M"
+        },
+        {
+          "player_id": 38,
+          "name": "吴文皓",
+          "gender": "M"
+        },
+        {
+          "player_id": 39,
+          "name": "黄金晨",
+          "gender": "M"
+        },
+        {
+          "player_id": 40,
+          "name": "王筱双",
+          "gender": "F"
+        },
+        {
+          "player_id": 41,
+          "name": "张芸",
+          "gender": "F"
+        },
+        {
+          "player_id": 42,
+          "name": "朱凤",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "平和青浦",
+      "group_id": 1,
+      "roster": [
+        {
+          "player_id": 25,
+          "name": "王锦",
+          "gender": "M"
+        },
+        {
+          "player_id": 26,
+          "name": "王勇",
+          "gender": "M"
+        },
+        {
+          "player_id": 27,
+          "name": "龙连勇",
+          "gender": "M"
+        },
+        {
+          "player_id": 28,
+          "name": "崔素杰",
+          "gender": "F"
+        },
+        {
+          "player_id": 29,
+          "name": "王婷",
+          "gender": "F"
+        },
+        {
+          "player_id": 30,
+          "name": "魏晓倩",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "惠灵顿",
+      "group_id": 1,
+      "roster": [
+        {
+          "player_id": 31,
+          "name": "徐长利",
+          "gender": "M"
+        },
+        {
+          "player_id": 32,
+          "name": "曾程辉",
+          "gender": "M"
+        },
+        {
+          "player_id": 33,
+          "name": "钟郑超",
+          "gender": "M"
+        },
+        {
+          "player_id": 34,
+          "name": "张鸿雁",
+          "gender": "F"
+        },
+        {
+          "player_id": 35,
+          "name": "任白灵",
+          "gender": "F"
+        },
+        {
+          "player_id": 36,
+          "name": "林琦年",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "惠立",
+      "group_id": 2,
+      "roster": [
+        {
+          "player_id": 43,
+          "name": "方伟",
+          "gender": "M"
+        },
+        {
+          "player_id": 44,
+          "name": "刘浩",
+          "gender": "M"
+        },
+        {
+          "player_id": 45,
+          "name": "车建国",
+          "gender": "M"
+        },
+        {
+          "player_id": 46,
+          "name": "黄静",
+          "gender": "F"
+        },
+        {
+          "player_id": 47,
+          "name": "邓咏莲",
+          "gender": "F"
+        },
+        {
+          "player_id": 48,
+          "name": "翟湘",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "星河湾",
+      "group_id": 1,
+      "roster": [
+        {
+          "player_id": 1,
+          "name": "丁源",
+          "gender": "M"
+        },
+        {
+          "player_id": 2,
+          "name": "盛永进",
+          "gender": "M"
+        },
+        {
+          "player_id": 3,
+          "name": "吴慧超",
+          "gender": "M"
+        },
+        {
+          "player_id": 4,
+          "name": "杨蓉",
+          "gender": "F"
+        },
+        {
+          "player_id": 5,
+          "name": "冯冬梅",
+          "gender": "F"
+        },
+        {
+          "player_id": 6,
+          "name": "吕春华",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "美校浦东",
+      "group_id": 2,
+      "roster": [
+        {
+          "player_id": 61,
+          "name": "苏骏",
+          "gender": "M"
+        },
+        {
+          "player_id": 62,
+          "name": "Kang Zhiwei",
+          "gender": "M"
+        },
+        {
+          "player_id": 63,
+          "name": "胡晨",
+          "gender": "M"
+        },
+        {
+          "player_id": 64,
+          "name": "Li Li",
+          "gender": "F"
+        },
+        {
+          "player_id": 65,
+          "name": "金菲",
+          "gender": "F"
+        },
+        {
+          "player_id": 66,
+          "name": "葛韵",
+          "gender": "F"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "诺达双语",
+      "group_id": 2,
+      "roster": [
+        {
+          "player_id": 55,
+          "name": "孙雪",
+          "gender": "M"
+        },
+        {
+          "player_id": 56,
+          "name": "甘鹏",
+          "gender": "M"
+        },
+        {
+          "player_id": 57,
+          "name": "贾继成",
+          "gender": "M"
+        },
+        {
+          "player_id": 58,
+          "name": "任莉Livia",
+          "gender": "F"
+        },
+        {
+          "player_id": 59,
+          "name": "鲍璐菲Fay",
+          "gender": "F"
+        },
+        {
+          "player_id": 60,
+          "name": "周芬",
+          "gender": "F"
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "丁源",
+      "gender": "M"
+    },
+    {
+      "id": 2,
+      "name": "盛永进",
+      "gender": "M"
+    },
+    {
+      "id": 3,
+      "name": "吴慧超",
+      "gender": "M"
+    },
+    {
+      "id": 4,
+      "name": "杨蓉",
+      "gender": "F"
+    },
+    {
+      "id": 5,
+      "name": "冯冬梅",
+      "gender": "F"
+    },
+    {
+      "id": 6,
+      "name": "吕春华",
+      "gender": "F"
+    },
+    {
+      "id": 7,
+      "name": "Eddy Wong",
+      "gender": "M"
+    },
+    {
+      "id": 8,
+      "name": "Jun Jiang",
+      "gender": "M"
+    },
+    {
+      "id": 9,
+      "name": "Xue Song Deng",
+      "gender": "M"
+    },
+    {
+      "id": 10,
+      "name": "Isabella Wong",
+      "gender": "F"
+    },
+    {
+      "id": 11,
+      "name": "Yuhui Zhang",
+      "gender": "F"
+    },
+    {
+      "id": 12,
+      "name": "肖向春",
+      "gender": "F"
+    },
+    {
+      "id": 13,
+      "name": "Wayne Chang",
+      "gender": "M"
+    },
+    {
+      "id": 14,
+      "name": "蒋毅涛",
+      "gender": "M"
+    },
+    {
+      "id": 15,
+      "name": "Kyooung sun",
+      "gender": "M"
+    },
+    {
+      "id": 16,
+      "name": "李荣双",
+      "gender": "F"
+    },
+    {
+      "id": 17,
+      "name": "JIANGWEI",
+      "gender": "F"
+    },
+    {
+      "id": 18,
+      "name": "彭宥榛",
+      "gender": "F"
+    },
+    {
+      "id": 19,
+      "name": "杨乃章",
+      "gender": "M"
+    },
+    {
+      "id": 20,
+      "name": "朱伟鹏",
+      "gender": "M"
+    },
+    {
+      "id": 21,
+      "name": "张楠",
+      "gender": "M"
+    },
+    {
+      "id": 22,
+      "name": "李珺",
+      "gender": "F"
+    },
+    {
+      "id": 23,
+      "name": "潘燕飞",
+      "gender": "F"
+    },
+    {
+      "id": 24,
+      "name": "张璟",
+      "gender": "F"
+    },
+    {
+      "id": 25,
+      "name": "王锦",
+      "gender": "M"
+    },
+    {
+      "id": 26,
+      "name": "王勇",
+      "gender": "M"
+    },
+    {
+      "id": 27,
+      "name": "龙连勇",
+      "gender": "M"
+    },
+    {
+      "id": 28,
+      "name": "崔素杰",
+      "gender": "F"
+    },
+    {
+      "id": 29,
+      "name": "王婷",
+      "gender": "F"
+    },
+    {
+      "id": 30,
+      "name": "魏晓倩",
+      "gender": "F"
+    },
+    {
+      "id": 31,
+      "name": "徐长利",
+      "gender": "M"
+    },
+    {
+      "id": 32,
+      "name": "曾程辉",
+      "gender": "M"
+    },
+    {
+      "id": 33,
+      "name": "钟郑超",
+      "gender": "M"
+    },
+    {
+      "id": 34,
+      "name": "张鸿雁",
+      "gender": "F"
+    },
+    {
+      "id": 35,
+      "name": "任白灵",
+      "gender": "F"
+    },
+    {
+      "id": 36,
+      "name": "林琦年",
+      "gender": "F"
+    },
+    {
+      "id": 37,
+      "name": "褚劲华",
+      "gender": "M"
+    },
+    {
+      "id": 38,
+      "name": "吴文皓",
+      "gender": "M"
+    },
+    {
+      "id": 39,
+      "name": "黄金晨",
+      "gender": "M"
+    },
+    {
+      "id": 40,
+      "name": "王筱双",
+      "gender": "F"
+    },
+    {
+      "id": 41,
+      "name": "张芸",
+      "gender": "F"
+    },
+    {
+      "id": 42,
+      "name": "朱凤",
+      "gender": "F"
+    },
+    {
+      "id": 43,
+      "name": "方伟",
+      "gender": "M"
+    },
+    {
+      "id": 44,
+      "name": "刘浩",
+      "gender": "M"
+    },
+    {
+      "id": 45,
+      "name": "车建国",
+      "gender": "M"
+    },
+    {
+      "id": 46,
+      "name": "黄静",
+      "gender": "F"
+    },
+    {
+      "id": 47,
+      "name": "邓咏莲",
+      "gender": "F"
+    },
+    {
+      "id": 48,
+      "name": "翟湘",
+      "gender": "F"
+    },
+    {
+      "id": 49,
+      "name": "陈郁捷",
+      "gender": "M"
+    },
+    {
+      "id": 50,
+      "name": "Bruce Lau",
+      "gender": "M"
+    },
+    {
+      "id": 51,
+      "name": "石文海",
+      "gender": "M"
+    },
+    {
+      "id": 52,
+      "name": "李杨",
+      "gender": "F"
+    },
+    {
+      "id": 53,
+      "name": "黄冰源",
+      "gender": "F"
+    },
+    {
+      "id": 54,
+      "name": "Joanna Lim",
+      "gender": "F"
+    },
+    {
+      "id": 55,
+      "name": "孙雪",
+      "gender": "M"
+    },
+    {
+      "id": 56,
+      "name": "甘鹏",
+      "gender": "M"
+    },
+    {
+      "id": 57,
+      "name": "贾继成",
+      "gender": "M"
+    },
+    {
+      "id": 58,
+      "name": "任莉Livia",
+      "gender": "F"
+    },
+    {
+      "id": 59,
+      "name": "鲍璐菲Fay",
+      "gender": "F"
+    },
+    {
+      "id": 60,
+      "name": "周芬",
+      "gender": "F"
+    },
+    {
+      "id": 61,
+      "name": "苏骏",
+      "gender": "M"
+    },
+    {
+      "id": 62,
+      "name": "Kang Zhiwei",
+      "gender": "M"
+    },
+    {
+      "id": 63,
+      "name": "胡晨",
+      "gender": "M"
+    },
+    {
+      "id": 64,
+      "name": "Li Li",
+      "gender": "F"
+    },
+    {
+      "id": 65,
+      "name": "金菲",
+      "gender": "F"
+    },
+    {
+      "id": 66,
+      "name": "葛韵",
+      "gender": "F"
+    },
+    {
+      "id": 67,
+      "name": "张吉臻",
+      "gender": "M"
+    },
+    {
+      "id": 68,
+      "name": "沈友良",
+      "gender": "M"
+    },
+    {
+      "id": 69,
+      "name": "严明",
+      "gender": "M"
+    },
+    {
+      "id": 70,
+      "name": "陆颖华",
+      "gender": "F"
+    },
+    {
+      "id": 71,
+      "name": "陈思",
+      "gender": "F"
+    },
+    {
+      "id": 72,
+      "name": "冯丽君",
+      "gender": "F"
+    }
+  ],
+  "ties": [
+    {
+      "id": 1,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 7,
+      "team_b_id": 12,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 20,
+      "winner_team_id": 7,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            38,
+            39
+          ],
+          "a_score": 21,
+          "b_players": [
+            68,
+            69
+          ],
+          "b_score": 5,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            37,
+            42
+          ],
+          "a_score": 21,
+          "b_players": [
+            67,
+            70
+          ],
+          "b_score": 7,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            40,
+            41
+          ],
+          "a_score": 21,
+          "b_players": [
+            71,
+            72
+          ],
+          "b_score": 8,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 7,
+      "team_b_id": 11,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 43,
+      "winner_team_id": 7,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            38,
+            39
+          ],
+          "a_score": 21,
+          "b_players": [
+            62,
+            63
+          ],
+          "b_score": 7,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            37,
+            42
+          ],
+          "a_score": 21,
+          "b_players": [
+            61,
+            66
+          ],
+          "b_score": 19,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            40,
+            41
+          ],
+          "a_score": 21,
+          "b_players": [
+            64,
+            65
+          ],
+          "b_score": 17,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 7,
+      "team_b_id": 10,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 54,
+      "b_points": 50,
+      "winner_team_id": 7,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            38,
+            39
+          ],
+          "a_score": 21,
+          "b_players": [
+            55,
+            56
+          ],
+          "b_score": 17,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            37,
+            42
+          ],
+          "a_score": 12,
+          "b_players": [
+            57,
+            60
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            40,
+            41
+          ],
+          "a_score": 21,
+          "b_players": [
+            58,
+            59
+          ],
+          "b_score": 12,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 7,
+      "team_b_id": 9,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 34,
+      "winner_team_id": 7,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            38,
+            39
+          ],
+          "a_score": 21,
+          "b_players": [
+            49,
+            51
+          ],
+          "b_score": 9,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            37,
+            42
+          ],
+          "a_score": 21,
+          "b_players": [
+            50,
+            52
+          ],
+          "b_score": 9,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            40,
+            41
+          ],
+          "a_score": 21,
+          "b_players": [
+            53,
+            54
+          ],
+          "b_score": 16,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 7,
+      "team_b_id": 8,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 30,
+      "winner_team_id": 7,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            38,
+            39
+          ],
+          "a_score": 21,
+          "b_players": [
+            44,
+            45
+          ],
+          "b_score": 10,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            37,
+            42
+          ],
+          "a_score": 21,
+          "b_players": [
+            43,
+            46
+          ],
+          "b_score": 12,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            40,
+            41
+          ],
+          "a_score": 21,
+          "b_players": [
+            47,
+            48
+          ],
+          "b_score": 8,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 8,
+      "team_b_id": 11,
+      "a_rubbers_won": 1,
+      "b_rubbers_won": 2,
+      "a_points": 41,
+      "b_points": 62,
+      "winner_team_id": 11,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            44,
+            45
+          ],
+          "a_score": 21,
+          "b_players": [
+            63,
+            62
+          ],
+          "b_score": 20,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            43,
+            46
+          ],
+          "a_score": 15,
+          "b_players": [
+            61,
+            66
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            47,
+            48
+          ],
+          "a_score": 5,
+          "b_players": [
+            64,
+            65
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 12,
+      "team_b_id": 10,
+      "a_rubbers_won": 0,
+      "b_rubbers_won": 3,
+      "a_points": 25,
+      "b_points": 63,
+      "winner_team_id": 10,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            69,
+            68
+          ],
+          "a_score": 8,
+          "b_players": [
+            56,
+            55
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            67,
+            70
+          ],
+          "a_score": 9,
+          "b_players": [
+            57,
+            60
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            71,
+            72
+          ],
+          "a_score": 8,
+          "b_players": [
+            59,
+            58
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 11,
+      "team_b_id": 9,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 49,
+      "b_points": 46,
+      "winner_team_id": 11,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            61,
+            62
+          ],
+          "a_score": 21,
+          "b_players": [
+            50,
+            51
+          ],
+          "b_score": 14,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            63,
+            64
+          ],
+          "a_score": 7,
+          "b_players": [
+            49,
+            54
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            65,
+            66
+          ],
+          "a_score": 21,
+          "b_players": [
+            52,
+            53
+          ],
+          "b_score": 11,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 10,
+      "team_b_id": 8,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 62,
+      "b_points": 46,
+      "winner_team_id": 10,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            55,
+            56
+          ],
+          "a_score": 21,
+          "b_players": [
+            44,
+            45
+          ],
+          "b_score": 13,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            57,
+            60
+          ],
+          "a_score": 21,
+          "b_players": [
+            43,
+            46
+          ],
+          "b_score": 12,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            58,
+            59
+          ],
+          "a_score": 20,
+          "b_players": [
+            47,
+            48
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 9,
+      "team_b_id": 12,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 20,
+      "winner_team_id": 9,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            50,
+            51
+          ],
+          "a_score": 21,
+          "b_players": [
+            68,
+            69
+          ],
+          "b_score": 6,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            49,
+            54
+          ],
+          "a_score": 21,
+          "b_players": [
+            67,
+            70
+          ],
+          "b_score": 9,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            52,
+            53
+          ],
+          "a_score": 21,
+          "b_players": [
+            71,
+            72
+          ],
+          "b_score": 5,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 9,
+      "team_b_id": 10,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 61,
+      "b_points": 41,
+      "winner_team_id": 9,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            50,
+            51
+          ],
+          "a_score": 19,
+          "b_players": [
+            56,
+            55
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            49,
+            52
+          ],
+          "a_score": 21,
+          "b_players": [
+            57,
+            60
+          ],
+          "b_score": 10,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            53,
+            54
+          ],
+          "a_score": 21,
+          "b_players": [
+            59,
+            58
+          ],
+          "b_score": 10,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 8,
+      "team_b_id": 9,
+      "a_rubbers_won": 0,
+      "b_rubbers_won": 3,
+      "a_points": 42,
+      "b_points": 63,
+      "winner_team_id": 9,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            44,
+            45
+          ],
+          "a_score": 15,
+          "b_players": [
+            50,
+            51
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            43,
+            46
+          ],
+          "a_score": 12,
+          "b_players": [
+            49,
+            54
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            47,
+            48
+          ],
+          "a_score": 15,
+          "b_players": [
+            52,
+            53
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 12,
+      "team_b_id": 8,
+      "a_rubbers_won": 0,
+      "b_rubbers_won": 3,
+      "a_points": 36,
+      "b_points": 63,
+      "winner_team_id": 8,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            68,
+            69
+          ],
+          "a_score": 6,
+          "b_players": [
+            44,
+            45
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            67,
+            70
+          ],
+          "a_score": 12,
+          "b_players": [
+            43,
+            46
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            71,
+            72
+          ],
+          "a_score": 18,
+          "b_players": [
+            47,
+            48
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 11,
+      "team_b_id": 12,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 23,
+      "winner_team_id": 11,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            62,
+            63
+          ],
+          "a_score": 21,
+          "b_players": [
+            68,
+            69
+          ],
+          "b_score": 4,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            61,
+            66
+          ],
+          "a_score": 21,
+          "b_players": [
+            67,
+            70
+          ],
+          "b_score": 10,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            64,
+            65
+          ],
+          "a_score": 21,
+          "b_players": [
+            71,
+            72
+          ],
+          "b_score": 9,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "stage": "group",
+      "group_id": 2,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 10,
+      "team_b_id": 11,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 54,
+      "b_points": 52,
+      "winner_team_id": 10,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            55,
+            56
+          ],
+          "a_score": 21,
+          "b_players": [
+            62,
+            63
+          ],
+          "b_score": 17,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            57,
+            60
+          ],
+          "a_score": 21,
+          "b_players": [
+            61,
+            66
+          ],
+          "b_score": 14,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            58,
+            59
+          ],
+          "a_score": 12,
+          "b_players": [
+            64,
+            65
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 1,
+      "team_b_id": 6,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 19,
+      "winner_team_id": 1,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            2,
+            3
+          ],
+          "a_score": 21,
+          "b_players": [
+            31,
+            33
+          ],
+          "b_score": 10,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            1,
+            4
+          ],
+          "a_score": 21,
+          "b_players": [
+            36,
+            32
+          ],
+          "b_score": 6,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            5,
+            6
+          ],
+          "a_score": 21,
+          "b_players": [
+            35,
+            34
+          ],
+          "b_score": 3,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 1,
+      "team_b_id": 5,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 55,
+      "b_points": 34,
+      "winner_team_id": 1,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            2,
+            3
+          ],
+          "a_score": 13,
+          "b_players": [
+            25,
+            26
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            1,
+            4
+          ],
+          "a_score": 21,
+          "b_players": [
+            27,
+            28
+          ],
+          "b_score": 11,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            5,
+            6
+          ],
+          "a_score": 21,
+          "b_players": [
+            29,
+            30
+          ],
+          "b_score": 2,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 1,
+      "team_b_id": 4,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 61,
+      "b_points": 38,
+      "winner_team_id": 1,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            2,
+            3
+          ],
+          "a_score": 19,
+          "b_players": [
+            19,
+            20
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            1,
+            4
+          ],
+          "a_score": 21,
+          "b_players": [
+            21,
+            24
+          ],
+          "b_score": 5,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            5,
+            6
+          ],
+          "a_score": 21,
+          "b_players": [
+            22,
+            23
+          ],
+          "b_score": 12,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 1,
+      "team_b_id": 3,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 28,
+      "winner_team_id": 1,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            2,
+            3
+          ],
+          "a_score": 21,
+          "b_players": [
+            14,
+            15
+          ],
+          "b_score": 15,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            1,
+            4
+          ],
+          "a_score": 21,
+          "b_players": [
+            13,
+            18
+          ],
+          "b_score": 5,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            5,
+            6
+          ],
+          "a_score": 21,
+          "b_players": [
+            16,
+            17
+          ],
+          "b_score": 8,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 1,
+      "team_b_id": 2,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 54,
+      "b_points": 50,
+      "winner_team_id": 1,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            2,
+            3
+          ],
+          "a_score": 12,
+          "b_players": [
+            7,
+            8
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            1,
+            4
+          ],
+          "a_score": 21,
+          "b_players": [
+            9,
+            10
+          ],
+          "b_score": 18,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            5,
+            6
+          ],
+          "a_score": 21,
+          "b_players": [
+            11,
+            12
+          ],
+          "b_score": 11,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 2,
+      "team_b_id": 5,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 50,
+      "b_points": 50,
+      "winner_team_id": 2,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            9,
+            8
+          ],
+          "a_score": 8,
+          "b_players": [
+            25,
+            26
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            7,
+            10
+          ],
+          "a_score": 21,
+          "b_players": [
+            27,
+            28
+          ],
+          "b_score": 15,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            12,
+            11
+          ],
+          "a_score": 21,
+          "b_players": [
+            29,
+            30
+          ],
+          "b_score": 14,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 6,
+      "team_b_id": 4,
+      "a_rubbers_won": 0,
+      "b_rubbers_won": 3,
+      "a_points": 41,
+      "b_points": 63,
+      "winner_team_id": 4,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            31,
+            33
+          ],
+          "a_score": 14,
+          "b_players": [
+            19,
+            20
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            32,
+            36
+          ],
+          "a_score": 10,
+          "b_players": [
+            21,
+            22
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            34,
+            35
+          ],
+          "a_score": 17,
+          "b_players": [
+            23,
+            24
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 5,
+      "team_b_id": 3,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 43,
+      "winner_team_id": 5,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            25,
+            26
+          ],
+          "a_score": 21,
+          "b_players": [
+            14,
+            15
+          ],
+          "b_score": 16,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            27,
+            28
+          ],
+          "a_score": 21,
+          "b_players": [
+            13,
+            18
+          ],
+          "b_score": 12,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            29,
+            30
+          ],
+          "a_score": 21,
+          "b_players": [
+            16,
+            17
+          ],
+          "b_score": 15,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 4,
+      "team_b_id": 2,
+      "a_rubbers_won": 1,
+      "b_rubbers_won": 2,
+      "a_points": 48,
+      "b_points": 53,
+      "winner_team_id": 2,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            19,
+            20
+          ],
+          "a_score": 11,
+          "b_players": [
+            7,
+            8
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            21,
+            23
+          ],
+          "a_score": 21,
+          "b_players": [
+            9,
+            12
+          ],
+          "b_score": 11,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            22,
+            24
+          ],
+          "a_score": 16,
+          "b_players": [
+            10,
+            11
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 3,
+      "team_b_id": 6,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 56,
+      "b_points": 55,
+      "winner_team_id": 3,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            14,
+            15
+          ],
+          "a_score": 14,
+          "b_players": [
+            31,
+            33
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            13,
+            18
+          ],
+          "a_score": 21,
+          "b_players": [
+            32,
+            36
+          ],
+          "b_score": 14,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            16,
+            17
+          ],
+          "a_score": 21,
+          "b_players": [
+            34,
+            35
+          ],
+          "b_score": 20,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 3,
+      "team_b_id": 4,
+      "a_rubbers_won": 1,
+      "b_rubbers_won": 2,
+      "a_points": 48,
+      "b_points": 54,
+      "winner_team_id": 4,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            14,
+            15
+          ],
+          "a_score": 18,
+          "b_players": [
+            19,
+            20
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            18,
+            13
+          ],
+          "a_score": 21,
+          "b_players": [
+            24,
+            21
+          ],
+          "b_score": 12,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            16,
+            17
+          ],
+          "a_score": 9,
+          "b_players": [
+            22,
+            23
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 2,
+      "team_b_id": 3,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 62,
+      "b_points": 40,
+      "winner_team_id": 2,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            7,
+            8
+          ],
+          "a_score": 21,
+          "b_players": [
+            14,
+            15
+          ],
+          "b_score": 5,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            9,
+            10
+          ],
+          "a_score": 20,
+          "b_players": [
+            13,
+            18
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            11,
+            12
+          ],
+          "a_score": 21,
+          "b_players": [
+            16,
+            17
+          ],
+          "b_score": 14,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 6,
+      "team_b_id": 2,
+      "a_rubbers_won": 0,
+      "b_rubbers_won": 3,
+      "a_points": 46,
+      "b_points": 63,
+      "winner_team_id": 2,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            31,
+            33
+          ],
+          "a_score": 17,
+          "b_players": [
+            7,
+            8
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            32,
+            36
+          ],
+          "a_score": 12,
+          "b_players": [
+            9,
+            10
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            34,
+            35
+          ],
+          "a_score": 17,
+          "b_players": [
+            11,
+            12
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 5,
+      "team_b_id": 6,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 55,
+      "b_points": 47,
+      "winner_team_id": 5,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            25,
+            26
+          ],
+          "a_score": 21,
+          "b_players": [
+            31,
+            33
+          ],
+          "b_score": 8,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            27,
+            28
+          ],
+          "a_score": 21,
+          "b_players": [
+            32,
+            36
+          ],
+          "b_score": 18,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            29,
+            30
+          ],
+          "a_score": 13,
+          "b_players": [
+            34,
+            35
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "stage": "group",
+      "group_id": 1,
+      "match_number": null,
+      "round_number": null,
+      "team_a_id": 4,
+      "team_b_id": 5,
+      "a_rubbers_won": 3,
+      "b_rubbers_won": 0,
+      "a_points": 63,
+      "b_points": 46,
+      "winner_team_id": 4,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            19,
+            20
+          ],
+          "a_score": 21,
+          "b_players": [
+            25,
+            26
+          ],
+          "b_score": 19,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            21,
+            23
+          ],
+          "a_score": 21,
+          "b_players": [
+            27,
+            28
+          ],
+          "b_score": 20,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            22,
+            24
+          ],
+          "a_score": 21,
+          "b_players": [
+            29,
+            30
+          ],
+          "b_score": 7,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "stage": "semifinal",
+      "group_id": null,
+      "match_number": 201,
+      "round_number": null,
+      "team_a_id": 1,
+      "team_b_id": 10,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 60,
+      "b_points": 36,
+      "winner_team_id": 1,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            2,
+            3
+          ],
+          "a_score": 18,
+          "b_players": [
+            55,
+            57
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            1,
+            4
+          ],
+          "a_score": 21,
+          "b_players": [
+            56,
+            60
+          ],
+          "b_score": 10,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            5,
+            6
+          ],
+          "a_score": 21,
+          "b_players": [
+            58,
+            59
+          ],
+          "b_score": 5,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "stage": "semifinal",
+      "group_id": null,
+      "match_number": 202,
+      "round_number": null,
+      "team_a_id": 2,
+      "team_b_id": 7,
+      "a_rubbers_won": 0,
+      "b_rubbers_won": 2,
+      "a_points": 23,
+      "b_points": 42,
+      "winner_team_id": 7,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            7,
+            8
+          ],
+          "a_score": 15,
+          "b_players": [
+            37,
+            39
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            9,
+            12
+          ],
+          "a_score": 8,
+          "b_players": [
+            38,
+            42
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "stage": "third_place",
+      "group_id": null,
+      "match_number": 203,
+      "round_number": null,
+      "team_a_id": 10,
+      "team_b_id": 2,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 0,
+      "a_points": 42,
+      "b_points": 33,
+      "winner_team_id": 10,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            55,
+            56
+          ],
+          "a_score": 21,
+          "b_players": [
+            8,
+            9
+          ],
+          "b_score": 16,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            57,
+            60
+          ],
+          "a_score": 21,
+          "b_players": [
+            7,
+            10
+          ],
+          "b_score": 17,
+          "winner_side": "a"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "stage": "final",
+      "group_id": null,
+      "match_number": 204,
+      "round_number": null,
+      "team_a_id": 1,
+      "team_b_id": 7,
+      "a_rubbers_won": 2,
+      "b_rubbers_won": 1,
+      "a_points": 53,
+      "b_points": 35,
+      "winner_team_id": 1,
+      "rubbers": [
+        {
+          "discipline": "MD",
+          "a_players": [
+            2,
+            3
+          ],
+          "a_score": 11,
+          "b_players": [
+            37,
+            39
+          ],
+          "b_score": 21,
+          "winner_side": "b"
+        },
+        {
+          "discipline": "XD",
+          "a_players": [
+            1,
+            4
+          ],
+          "a_score": 21,
+          "b_players": [
+            38,
+            41
+          ],
+          "b_score": 7,
+          "winner_side": "a"
+        },
+        {
+          "discipline": "WD",
+          "a_players": [
+            5,
+            6
+          ],
+          "a_score": 21,
+          "b_players": [
+            40,
+            42
+          ],
+          "b_score": 7,
+          "winner_side": "a"
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "group_id": 1,
+      "rank": 1,
+      "team_id": 1,
+      "ties_won": 5,
+      "ties_lost": 0,
+      "rubbers_won": 12,
+      "rubbers_lost": 3,
+      "points_for": 296,
+      "points_against": 169,
+      "tiebreak_note": "",
+      "advances": true
+    },
+    {
+      "group_id": 1,
+      "rank": 2,
+      "team_id": 2,
+      "ties_won": 4,
+      "ties_lost": 1,
+      "rubbers_won": 10,
+      "rubbers_lost": 5,
+      "points_for": 278,
+      "points_against": 238,
+      "tiebreak_note": "",
+      "advances": true
+    },
+    {
+      "group_id": 1,
+      "rank": 3,
+      "team_id": 4,
+      "ties_won": 3,
+      "ties_lost": 2,
+      "rubbers_won": 10,
+      "rubbers_lost": 5,
+      "points_for": 266,
+      "points_against": 249,
+      "tiebreak_note": "",
+      "advances": false
+    },
+    {
+      "group_id": 1,
+      "rank": 4,
+      "team_id": 5,
+      "ties_won": 2,
+      "ties_lost": 3,
+      "rubbers_won": 7,
+      "rubbers_lost": 8,
+      "points_for": 248,
+      "points_against": 258,
+      "tiebreak_note": "",
+      "advances": false
+    },
+    {
+      "group_id": 1,
+      "rank": 5,
+      "team_id": 3,
+      "ties_won": 1,
+      "ties_lost": 4,
+      "rubbers_won": 4,
+      "rubbers_lost": 11,
+      "points_for": 215,
+      "points_against": 297,
+      "tiebreak_note": "",
+      "advances": false
+    },
+    {
+      "group_id": 1,
+      "rank": 6,
+      "team_id": 6,
+      "ties_won": 0,
+      "ties_lost": 5,
+      "rubbers_won": 2,
+      "rubbers_lost": 13,
+      "points_for": 208,
+      "points_against": 300,
+      "tiebreak_note": "",
+      "advances": false
+    },
+    {
+      "group_id": 2,
+      "rank": 1,
+      "team_id": 7,
+      "ties_won": 5,
+      "ties_lost": 0,
+      "rubbers_won": 14,
+      "rubbers_lost": 1,
+      "points_for": 306,
+      "points_against": 177,
+      "tiebreak_note": "",
+      "advances": true
+    },
+    {
+      "group_id": 2,
+      "rank": 2,
+      "team_id": 9,
+      "ties_won": 3,
+      "ties_lost": 2,
+      "rubbers_won": 9,
+      "rubbers_lost": 6,
+      "points_for": 267,
+      "points_against": 215,
+      "tiebreak_note": "3-way",
+      "advances": true
+    },
+    {
+      "group_id": 2,
+      "rank": 3,
+      "team_id": 10,
+      "ties_won": 3,
+      "ties_lost": 2,
+      "rubbers_won": 9,
+      "rubbers_lost": 6,
+      "points_for": 270,
+      "points_against": 238,
+      "tiebreak_note": "3-way",
+      "advances": false
+    },
+    {
+      "group_id": 2,
+      "rank": 4,
+      "team_id": 11,
+      "ties_won": 3,
+      "ties_lost": 2,
+      "rubbers_won": 8,
+      "rubbers_lost": 7,
+      "points_for": 269,
+      "points_against": 227,
+      "tiebreak_note": "3-way",
+      "advances": false
+    },
+    {
+      "group_id": 2,
+      "rank": 5,
+      "team_id": 8,
+      "ties_won": 1,
+      "ties_lost": 4,
+      "rubbers_won": 5,
+      "rubbers_lost": 10,
+      "points_for": 222,
+      "points_against": 286,
+      "tiebreak_note": "",
+      "advances": false
+    },
+    {
+      "group_id": 2,
+      "rank": 6,
+      "team_id": 12,
+      "ties_won": 0,
+      "ties_lost": 5,
+      "rubbers_won": 0,
+      "rubbers_lost": 15,
+      "points_for": 124,
+      "points_against": 315,
+      "tiebreak_note": "",
+      "advances": false
+    }
+  ],
+  "pair_stats": [
+    {
+      "team_id": 3,
+      "discipline": "MD",
+      "player_ids": [
+        14,
+        15
+      ],
+      "games_played": 5,
+      "games_won": 0,
+      "points_for": 68,
+      "points_against": 105,
+      "deployments": [
+        {
+          "tie_id": 19,
+          "our_score": 15,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 23,
+          "our_score": 16,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 25,
+          "our_score": 14,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 26,
+          "our_score": 18,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 27,
+          "our_score": 5,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        13,
+        18
+      ],
+      "games_played": 5,
+      "games_won": 3,
+      "points_for": 80,
+      "points_against": 88,
+      "deployments": [
+        {
+          "tie_id": 19,
+          "our_score": 5,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 23,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 25,
+          "our_score": 21,
+          "opp_score": 14
+        },
+        {
+          "tie_id": 26,
+          "our_score": 21,
+          "opp_score": 12
+        },
+        {
+          "tie_id": 27,
+          "our_score": 21,
+          "opp_score": 20
+        }
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "WD",
+      "player_ids": [
+        16,
+        17
+      ],
+      "games_played": 5,
+      "games_won": 1,
+      "points_for": 67,
+      "points_against": 104,
+      "deployments": [
+        {
+          "tie_id": 19,
+          "our_score": 8,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 23,
+          "our_score": 15,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 25,
+          "our_score": 21,
+          "opp_score": 20
+        },
+        {
+          "tie_id": 26,
+          "our_score": 9,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 27,
+          "our_score": 14,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "MD",
+      "player_ids": [
+        7,
+        8
+      ],
+      "games_played": 5,
+      "games_won": 4,
+      "points_for": 99,
+      "points_against": 66,
+      "deployments": [
+        {
+          "tie_id": 20,
+          "our_score": 21,
+          "opp_score": 12
+        },
+        {
+          "tie_id": 24,
+          "our_score": 21,
+          "opp_score": 11
+        },
+        {
+          "tie_id": 27,
+          "our_score": 21,
+          "opp_score": 5
+        },
+        {
+          "tie_id": 28,
+          "our_score": 21,
+          "opp_score": 17
+        },
+        {
+          "tie_id": 32,
+          "our_score": 15,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        9,
+        10
+      ],
+      "games_played": 3,
+      "games_won": 1,
+      "points_for": 59,
+      "points_against": 54,
+      "deployments": [
+        {
+          "tie_id": 20,
+          "our_score": 18,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 27,
+          "our_score": 20,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 28,
+          "our_score": 21,
+          "opp_score": 12
+        }
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "WD",
+      "player_ids": [
+        11,
+        12
+      ],
+      "games_played": 4,
+      "games_won": 3,
+      "points_for": 74,
+      "points_against": 66,
+      "deployments": [
+        {
+          "tie_id": 20,
+          "our_score": 11,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 21,
+          "our_score": 21,
+          "opp_score": 14
+        },
+        {
+          "tie_id": 27,
+          "our_score": 21,
+          "opp_score": 14
+        },
+        {
+          "tie_id": 28,
+          "our_score": 21,
+          "opp_score": 17
+        }
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "MD",
+      "player_ids": [
+        8,
+        9
+      ],
+      "games_played": 2,
+      "games_won": 0,
+      "points_for": 24,
+      "points_against": 42,
+      "deployments": [
+        {
+          "tie_id": 21,
+          "our_score": 8,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 33,
+          "our_score": 16,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        7,
+        10
+      ],
+      "games_played": 2,
+      "games_won": 1,
+      "points_for": 38,
+      "points_against": 36,
+      "deployments": [
+        {
+          "tie_id": 21,
+          "our_score": 21,
+          "opp_score": 15
+        },
+        {
+          "tie_id": 33,
+          "our_score": 17,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        9,
+        12
+      ],
+      "games_played": 2,
+      "games_won": 0,
+      "points_for": 19,
+      "points_against": 42,
+      "deployments": [
+        {
+          "tie_id": 24,
+          "our_score": 11,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 32,
+          "our_score": 8,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "WD",
+      "player_ids": [
+        10,
+        11
+      ],
+      "games_played": 1,
+      "games_won": 1,
+      "points_for": 21,
+      "points_against": 16,
+      "deployments": [
+        {
+          "tie_id": 24,
+          "our_score": 21,
+          "opp_score": 16
+        }
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "MD",
+      "player_ids": [
+        19,
+        20
+      ],
+      "games_played": 5,
+      "games_won": 4,
+      "points_for": 95,
+      "points_against": 91,
+      "deployments": [
+        {
+          "tie_id": 18,
+          "our_score": 21,
+          "opp_score": 19
+        },
+        {
+          "tie_id": 22,
+          "our_score": 21,
+          "opp_score": 14
+        },
+        {
+          "tie_id": 24,
+          "our_score": 11,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 26,
+          "our_score": 21,
+          "opp_score": 18
+        },
+        {
+          "tie_id": 30,
+          "our_score": 21,
+          "opp_score": 19
+        }
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        21,
+        24
+      ],
+      "games_played": 2,
+      "games_won": 0,
+      "points_for": 17,
+      "points_against": 42,
+      "deployments": [
+        {
+          "tie_id": 18,
+          "our_score": 5,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 26,
+          "our_score": 12,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "WD",
+      "player_ids": [
+        22,
+        23
+      ],
+      "games_played": 2,
+      "games_won": 1,
+      "points_for": 33,
+      "points_against": 30,
+      "deployments": [
+        {
+          "tie_id": 18,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 26,
+          "our_score": 21,
+          "opp_score": 9
+        }
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        21,
+        22
+      ],
+      "games_played": 1,
+      "games_won": 1,
+      "points_for": 21,
+      "points_against": 10,
+      "deployments": [
+        {
+          "tie_id": 22,
+          "our_score": 21,
+          "opp_score": 10
+        }
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "WD",
+      "player_ids": [
+        23,
+        24
+      ],
+      "games_played": 1,
+      "games_won": 1,
+      "points_for": 21,
+      "points_against": 17,
+      "deployments": [
+        {
+          "tie_id": 22,
+          "our_score": 21,
+          "opp_score": 17
+        }
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        21,
+        23
+      ],
+      "games_played": 2,
+      "games_won": 2,
+      "points_for": 42,
+      "points_against": 31,
+      "deployments": [
+        {
+          "tie_id": 24,
+          "our_score": 21,
+          "opp_score": 11
+        },
+        {
+          "tie_id": 30,
+          "our_score": 21,
+          "opp_score": 20
+        }
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "WD",
+      "player_ids": [
+        22,
+        24
+      ],
+      "games_played": 2,
+      "games_won": 1,
+      "points_for": 37,
+      "points_against": 28,
+      "deployments": [
+        {
+          "tie_id": 24,
+          "our_score": 16,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 30,
+          "our_score": 21,
+          "opp_score": 7
+        }
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "MD",
+      "player_ids": [
+        49,
+        51
+      ],
+      "games_played": 1,
+      "games_won": 0,
+      "points_for": 9,
+      "points_against": 21,
+      "deployments": [
+        {
+          "tie_id": 4,
+          "our_score": 9,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        50,
+        52
+      ],
+      "games_played": 1,
+      "games_won": 0,
+      "points_for": 9,
+      "points_against": 21,
+      "deployments": [
+        {
+          "tie_id": 4,
+          "our_score": 9,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "WD",
+      "player_ids": [
+        53,
+        54
+      ],
+      "games_played": 2,
+      "games_won": 1,
+      "points_for": 37,
+      "points_against": 31,
+      "deployments": [
+        {
+          "tie_id": 4,
+          "our_score": 16,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 11,
+          "our_score": 21,
+          "opp_score": 10
+        }
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "MD",
+      "player_ids": [
+        50,
+        51
+      ],
+      "games_played": 4,
+      "games_won": 2,
+      "points_for": 75,
+      "points_against": 63,
+      "deployments": [
+        {
+          "tie_id": 8,
+          "our_score": 14,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 10,
+          "our_score": 21,
+          "opp_score": 6
+        },
+        {
+          "tie_id": 11,
+          "our_score": 19,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 12,
+          "our_score": 21,
+          "opp_score": 15
+        }
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        49,
+        54
+      ],
+      "games_played": 3,
+      "games_won": 3,
+      "points_for": 63,
+      "points_against": 28,
+      "deployments": [
+        {
+          "tie_id": 8,
+          "our_score": 21,
+          "opp_score": 7
+        },
+        {
+          "tie_id": 10,
+          "our_score": 21,
+          "opp_score": 9
+        },
+        {
+          "tie_id": 12,
+          "our_score": 21,
+          "opp_score": 12
+        }
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "WD",
+      "player_ids": [
+        52,
+        53
+      ],
+      "games_played": 3,
+      "games_won": 2,
+      "points_for": 53,
+      "points_against": 41,
+      "deployments": [
+        {
+          "tie_id": 8,
+          "our_score": 11,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 10,
+          "our_score": 21,
+          "opp_score": 5
+        },
+        {
+          "tie_id": 12,
+          "our_score": 21,
+          "opp_score": 15
+        }
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        49,
+        52
+      ],
+      "games_played": 1,
+      "games_won": 1,
+      "points_for": 21,
+      "points_against": 10,
+      "deployments": [
+        {
+          "tie_id": 11,
+          "our_score": 21,
+          "opp_score": 10
+        }
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "MD",
+      "player_ids": [
+        68,
+        69
+      ],
+      "games_played": 5,
+      "games_won": 0,
+      "points_for": 29,
+      "points_against": 105,
+      "deployments": [
+        {
+          "tie_id": 1,
+          "our_score": 5,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 7,
+          "our_score": 8,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 10,
+          "our_score": 6,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 13,
+          "our_score": 6,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 14,
+          "our_score": 4,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        67,
+        70
+      ],
+      "games_played": 5,
+      "games_won": 0,
+      "points_for": 47,
+      "points_against": 105,
+      "deployments": [
+        {
+          "tie_id": 1,
+          "our_score": 7,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 7,
+          "our_score": 9,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 10,
+          "our_score": 9,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 13,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 14,
+          "our_score": 10,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "WD",
+      "player_ids": [
+        71,
+        72
+      ],
+      "games_played": 5,
+      "games_won": 0,
+      "points_for": 48,
+      "points_against": 105,
+      "deployments": [
+        {
+          "tie_id": 1,
+          "our_score": 8,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 7,
+          "our_score": 8,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 10,
+          "our_score": 5,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 13,
+          "our_score": 18,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 14,
+          "our_score": 9,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "MD",
+      "player_ids": [
+        38,
+        39
+      ],
+      "games_played": 5,
+      "games_won": 5,
+      "points_for": 105,
+      "points_against": 48,
+      "deployments": [
+        {
+          "tie_id": 1,
+          "our_score": 21,
+          "opp_score": 5
+        },
+        {
+          "tie_id": 2,
+          "our_score": 21,
+          "opp_score": 7
+        },
+        {
+          "tie_id": 3,
+          "our_score": 21,
+          "opp_score": 17
+        },
+        {
+          "tie_id": 4,
+          "our_score": 21,
+          "opp_score": 9
+        },
+        {
+          "tie_id": 5,
+          "our_score": 21,
+          "opp_score": 10
+        }
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        37,
+        42
+      ],
+      "games_played": 5,
+      "games_won": 4,
+      "points_for": 96,
+      "points_against": 68,
+      "deployments": [
+        {
+          "tie_id": 1,
+          "our_score": 21,
+          "opp_score": 7
+        },
+        {
+          "tie_id": 2,
+          "our_score": 21,
+          "opp_score": 19
+        },
+        {
+          "tie_id": 3,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 4,
+          "our_score": 21,
+          "opp_score": 9
+        },
+        {
+          "tie_id": 5,
+          "our_score": 21,
+          "opp_score": 12
+        }
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "WD",
+      "player_ids": [
+        40,
+        41
+      ],
+      "games_played": 5,
+      "games_won": 5,
+      "points_for": 105,
+      "points_against": 61,
+      "deployments": [
+        {
+          "tie_id": 1,
+          "our_score": 21,
+          "opp_score": 8
+        },
+        {
+          "tie_id": 2,
+          "our_score": 21,
+          "opp_score": 17
+        },
+        {
+          "tie_id": 3,
+          "our_score": 21,
+          "opp_score": 12
+        },
+        {
+          "tie_id": 4,
+          "our_score": 21,
+          "opp_score": 16
+        },
+        {
+          "tie_id": 5,
+          "our_score": 21,
+          "opp_score": 8
+        }
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "MD",
+      "player_ids": [
+        37,
+        39
+      ],
+      "games_played": 2,
+      "games_won": 2,
+      "points_for": 42,
+      "points_against": 26,
+      "deployments": [
+        {
+          "tie_id": 32,
+          "our_score": 21,
+          "opp_score": 15
+        },
+        {
+          "tie_id": 34,
+          "our_score": 21,
+          "opp_score": 11
+        }
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        38,
+        42
+      ],
+      "games_played": 1,
+      "games_won": 1,
+      "points_for": 21,
+      "points_against": 8,
+      "deployments": [
+        {
+          "tie_id": 32,
+          "our_score": 21,
+          "opp_score": 8
+        }
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        38,
+        41
+      ],
+      "games_played": 1,
+      "games_won": 0,
+      "points_for": 7,
+      "points_against": 21,
+      "deployments": [
+        {
+          "tie_id": 34,
+          "our_score": 7,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "WD",
+      "player_ids": [
+        40,
+        42
+      ],
+      "games_played": 1,
+      "games_won": 0,
+      "points_for": 7,
+      "points_against": 21,
+      "deployments": [
+        {
+          "tie_id": 34,
+          "our_score": 7,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "MD",
+      "player_ids": [
+        25,
+        26
+      ],
+      "games_played": 5,
+      "games_won": 4,
+      "points_for": 103,
+      "points_against": 66,
+      "deployments": [
+        {
+          "tie_id": 17,
+          "our_score": 21,
+          "opp_score": 13
+        },
+        {
+          "tie_id": 21,
+          "our_score": 21,
+          "opp_score": 8
+        },
+        {
+          "tie_id": 23,
+          "our_score": 21,
+          "opp_score": 16
+        },
+        {
+          "tie_id": 29,
+          "our_score": 21,
+          "opp_score": 8
+        },
+        {
+          "tie_id": 30,
+          "our_score": 19,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        27,
+        28
+      ],
+      "games_played": 5,
+      "games_won": 2,
+      "points_for": 88,
+      "points_against": 93,
+      "deployments": [
+        {
+          "tie_id": 17,
+          "our_score": 11,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 21,
+          "our_score": 15,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 23,
+          "our_score": 21,
+          "opp_score": 12
+        },
+        {
+          "tie_id": 29,
+          "our_score": 21,
+          "opp_score": 18
+        },
+        {
+          "tie_id": 30,
+          "our_score": 20,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "WD",
+      "player_ids": [
+        29,
+        30
+      ],
+      "games_played": 5,
+      "games_won": 1,
+      "points_for": 57,
+      "points_against": 99,
+      "deployments": [
+        {
+          "tie_id": 17,
+          "our_score": 2,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 21,
+          "our_score": 14,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 23,
+          "our_score": 21,
+          "opp_score": 15
+        },
+        {
+          "tie_id": 29,
+          "our_score": 13,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 30,
+          "our_score": 7,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "MD",
+      "player_ids": [
+        31,
+        33
+      ],
+      "games_played": 5,
+      "games_won": 1,
+      "points_for": 70,
+      "points_against": 98,
+      "deployments": [
+        {
+          "tie_id": 16,
+          "our_score": 10,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 22,
+          "our_score": 14,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 25,
+          "our_score": 21,
+          "opp_score": 14
+        },
+        {
+          "tie_id": 28,
+          "our_score": 17,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 29,
+          "our_score": 8,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        32,
+        36
+      ],
+      "games_played": 5,
+      "games_won": 0,
+      "points_for": 60,
+      "points_against": 105,
+      "deployments": [
+        {
+          "tie_id": 16,
+          "our_score": 6,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 22,
+          "our_score": 10,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 25,
+          "our_score": 14,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 28,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 29,
+          "our_score": 18,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "WD",
+      "player_ids": [
+        34,
+        35
+      ],
+      "games_played": 5,
+      "games_won": 1,
+      "points_for": 78,
+      "points_against": 97,
+      "deployments": [
+        {
+          "tie_id": 16,
+          "our_score": 3,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 22,
+          "our_score": 17,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 25,
+          "our_score": 20,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 28,
+          "our_score": 17,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 29,
+          "our_score": 21,
+          "opp_score": 13
+        }
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "MD",
+      "player_ids": [
+        44,
+        45
+      ],
+      "games_played": 5,
+      "games_won": 2,
+      "points_for": 80,
+      "points_against": 89,
+      "deployments": [
+        {
+          "tie_id": 5,
+          "our_score": 10,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 6,
+          "our_score": 21,
+          "opp_score": 20
+        },
+        {
+          "tie_id": 9,
+          "our_score": 13,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 12,
+          "our_score": 15,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 13,
+          "our_score": 21,
+          "opp_score": 6
+        }
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        43,
+        46
+      ],
+      "games_played": 5,
+      "games_won": 1,
+      "points_for": 72,
+      "points_against": 96,
+      "deployments": [
+        {
+          "tie_id": 5,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 6,
+          "our_score": 15,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 9,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 12,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 13,
+          "our_score": 21,
+          "opp_score": 12
+        }
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "WD",
+      "player_ids": [
+        47,
+        48
+      ],
+      "games_played": 5,
+      "games_won": 2,
+      "points_for": 70,
+      "points_against": 101,
+      "deployments": [
+        {
+          "tie_id": 5,
+          "our_score": 8,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 6,
+          "our_score": 5,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 9,
+          "our_score": 21,
+          "opp_score": 20
+        },
+        {
+          "tie_id": 12,
+          "our_score": 15,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 13,
+          "our_score": 21,
+          "opp_score": 18
+        }
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "MD",
+      "player_ids": [
+        2,
+        3
+      ],
+      "games_played": 7,
+      "games_won": 2,
+      "points_for": 115,
+      "points_against": 130,
+      "deployments": [
+        {
+          "tie_id": 16,
+          "our_score": 21,
+          "opp_score": 10
+        },
+        {
+          "tie_id": 17,
+          "our_score": 13,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 18,
+          "our_score": 19,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 19,
+          "our_score": 21,
+          "opp_score": 15
+        },
+        {
+          "tie_id": 20,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 31,
+          "our_score": 18,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 34,
+          "our_score": 11,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        1,
+        4
+      ],
+      "games_played": 7,
+      "games_won": 7,
+      "points_for": 147,
+      "points_against": 62,
+      "deployments": [
+        {
+          "tie_id": 16,
+          "our_score": 21,
+          "opp_score": 6
+        },
+        {
+          "tie_id": 17,
+          "our_score": 21,
+          "opp_score": 11
+        },
+        {
+          "tie_id": 18,
+          "our_score": 21,
+          "opp_score": 5
+        },
+        {
+          "tie_id": 19,
+          "our_score": 21,
+          "opp_score": 5
+        },
+        {
+          "tie_id": 20,
+          "our_score": 21,
+          "opp_score": 18
+        },
+        {
+          "tie_id": 31,
+          "our_score": 21,
+          "opp_score": 10
+        },
+        {
+          "tie_id": 34,
+          "our_score": 21,
+          "opp_score": 7
+        }
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "WD",
+      "player_ids": [
+        5,
+        6
+      ],
+      "games_played": 7,
+      "games_won": 7,
+      "points_for": 147,
+      "points_against": 48,
+      "deployments": [
+        {
+          "tie_id": 16,
+          "our_score": 21,
+          "opp_score": 3
+        },
+        {
+          "tie_id": 17,
+          "our_score": 21,
+          "opp_score": 2
+        },
+        {
+          "tie_id": 18,
+          "our_score": 21,
+          "opp_score": 12
+        },
+        {
+          "tie_id": 19,
+          "our_score": 21,
+          "opp_score": 8
+        },
+        {
+          "tie_id": 20,
+          "our_score": 21,
+          "opp_score": 11
+        },
+        {
+          "tie_id": 31,
+          "our_score": 21,
+          "opp_score": 5
+        },
+        {
+          "tie_id": 34,
+          "our_score": 21,
+          "opp_score": 7
+        }
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "MD",
+      "player_ids": [
+        62,
+        63
+      ],
+      "games_played": 4,
+      "games_won": 1,
+      "points_for": 65,
+      "points_against": 67,
+      "deployments": [
+        {
+          "tie_id": 2,
+          "our_score": 7,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 6,
+          "our_score": 20,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 14,
+          "our_score": 21,
+          "opp_score": 4
+        },
+        {
+          "tie_id": 15,
+          "our_score": 17,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        61,
+        66
+      ],
+      "games_played": 4,
+      "games_won": 2,
+      "points_for": 75,
+      "points_against": 67,
+      "deployments": [
+        {
+          "tie_id": 2,
+          "our_score": 19,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 6,
+          "our_score": 21,
+          "opp_score": 15
+        },
+        {
+          "tie_id": 14,
+          "our_score": 21,
+          "opp_score": 10
+        },
+        {
+          "tie_id": 15,
+          "our_score": 14,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "WD",
+      "player_ids": [
+        64,
+        65
+      ],
+      "games_played": 4,
+      "games_won": 3,
+      "points_for": 80,
+      "points_against": 47,
+      "deployments": [
+        {
+          "tie_id": 2,
+          "our_score": 17,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 6,
+          "our_score": 21,
+          "opp_score": 5
+        },
+        {
+          "tie_id": 14,
+          "our_score": 21,
+          "opp_score": 9
+        },
+        {
+          "tie_id": 15,
+          "our_score": 21,
+          "opp_score": 12
+        }
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "MD",
+      "player_ids": [
+        61,
+        62
+      ],
+      "games_played": 1,
+      "games_won": 1,
+      "points_for": 21,
+      "points_against": 14,
+      "deployments": [
+        {
+          "tie_id": 8,
+          "our_score": 21,
+          "opp_score": 14
+        }
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        63,
+        64
+      ],
+      "games_played": 1,
+      "games_won": 0,
+      "points_for": 7,
+      "points_against": 21,
+      "deployments": [
+        {
+          "tie_id": 8,
+          "our_score": 7,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "WD",
+      "player_ids": [
+        65,
+        66
+      ],
+      "games_played": 1,
+      "games_won": 1,
+      "points_for": 21,
+      "points_against": 11,
+      "deployments": [
+        {
+          "tie_id": 8,
+          "our_score": 21,
+          "opp_score": 11
+        }
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "MD",
+      "player_ids": [
+        55,
+        56
+      ],
+      "games_played": 6,
+      "games_won": 5,
+      "points_for": 122,
+      "points_against": 94,
+      "deployments": [
+        {
+          "tie_id": 3,
+          "our_score": 17,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 7,
+          "our_score": 21,
+          "opp_score": 8
+        },
+        {
+          "tie_id": 9,
+          "our_score": 21,
+          "opp_score": 13
+        },
+        {
+          "tie_id": 11,
+          "our_score": 21,
+          "opp_score": 19
+        },
+        {
+          "tie_id": 15,
+          "our_score": 21,
+          "opp_score": 17
+        },
+        {
+          "tie_id": 33,
+          "our_score": 21,
+          "opp_score": 16
+        }
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        57,
+        60
+      ],
+      "games_played": 6,
+      "games_won": 5,
+      "points_for": 115,
+      "points_against": 85,
+      "deployments": [
+        {
+          "tie_id": 3,
+          "our_score": 21,
+          "opp_score": 12
+        },
+        {
+          "tie_id": 7,
+          "our_score": 21,
+          "opp_score": 9
+        },
+        {
+          "tie_id": 9,
+          "our_score": 21,
+          "opp_score": 12
+        },
+        {
+          "tie_id": 11,
+          "our_score": 10,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 15,
+          "our_score": 21,
+          "opp_score": 14
+        },
+        {
+          "tie_id": 33,
+          "our_score": 21,
+          "opp_score": 17
+        }
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "WD",
+      "player_ids": [
+        58,
+        59
+      ],
+      "games_played": 6,
+      "games_won": 1,
+      "points_for": 80,
+      "points_against": 113,
+      "deployments": [
+        {
+          "tie_id": 3,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 7,
+          "our_score": 21,
+          "opp_score": 8
+        },
+        {
+          "tie_id": 9,
+          "our_score": 20,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 11,
+          "our_score": 10,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 15,
+          "our_score": 12,
+          "opp_score": 21
+        },
+        {
+          "tie_id": 31,
+          "our_score": 5,
+          "opp_score": 21
+        }
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "MD",
+      "player_ids": [
+        55,
+        57
+      ],
+      "games_played": 1,
+      "games_won": 1,
+      "points_for": 21,
+      "points_against": 18,
+      "deployments": [
+        {
+          "tie_id": 31,
+          "our_score": 21,
+          "opp_score": 18
+        }
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        56,
+        60
+      ],
+      "games_played": 1,
+      "games_won": 0,
+      "points_for": 10,
+      "points_against": 21,
+      "deployments": [
+        {
+          "tie_id": 31,
+          "our_score": 10,
+          "opp_score": 21
+        }
+      ]
+    }
+  ],
+  "unused_pairs": [
+    {
+      "team_id": 3,
+      "discipline": "MD",
+      "player_ids": [
+        13,
+        14
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "MD",
+      "player_ids": [
+        13,
+        15
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "WD",
+      "player_ids": [
+        16,
+        18
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "WD",
+      "player_ids": [
+        17,
+        18
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        13,
+        16
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        13,
+        17
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        14,
+        16
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        14,
+        17
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        14,
+        18
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        15,
+        16
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        15,
+        17
+      ]
+    },
+    {
+      "team_id": 3,
+      "discipline": "XD",
+      "player_ids": [
+        15,
+        18
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "MD",
+      "player_ids": [
+        7,
+        9
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "WD",
+      "player_ids": [
+        10,
+        12
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        7,
+        11
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        7,
+        12
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        8,
+        10
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        8,
+        11
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        8,
+        12
+      ]
+    },
+    {
+      "team_id": 2,
+      "discipline": "XD",
+      "player_ids": [
+        9,
+        11
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "MD",
+      "player_ids": [
+        19,
+        21
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "MD",
+      "player_ids": [
+        20,
+        21
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        19,
+        22
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        19,
+        23
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        19,
+        24
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        20,
+        22
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        20,
+        23
+      ]
+    },
+    {
+      "team_id": 4,
+      "discipline": "XD",
+      "player_ids": [
+        20,
+        24
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "MD",
+      "player_ids": [
+        49,
+        50
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "WD",
+      "player_ids": [
+        52,
+        54
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        49,
+        53
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        50,
+        53
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        50,
+        54
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        51,
+        52
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        51,
+        53
+      ]
+    },
+    {
+      "team_id": 9,
+      "discipline": "XD",
+      "player_ids": [
+        51,
+        54
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "MD",
+      "player_ids": [
+        67,
+        68
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "MD",
+      "player_ids": [
+        67,
+        69
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "WD",
+      "player_ids": [
+        70,
+        71
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "WD",
+      "player_ids": [
+        70,
+        72
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        67,
+        71
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        67,
+        72
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        68,
+        70
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        68,
+        71
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        68,
+        72
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        69,
+        70
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        69,
+        71
+      ]
+    },
+    {
+      "team_id": 12,
+      "discipline": "XD",
+      "player_ids": [
+        69,
+        72
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "MD",
+      "player_ids": [
+        37,
+        38
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "WD",
+      "player_ids": [
+        41,
+        42
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        37,
+        40
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        37,
+        41
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        38,
+        40
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        39,
+        40
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        39,
+        41
+      ]
+    },
+    {
+      "team_id": 7,
+      "discipline": "XD",
+      "player_ids": [
+        39,
+        42
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "MD",
+      "player_ids": [
+        25,
+        27
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "MD",
+      "player_ids": [
+        26,
+        27
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "WD",
+      "player_ids": [
+        28,
+        29
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "WD",
+      "player_ids": [
+        28,
+        30
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        25,
+        28
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        25,
+        29
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        25,
+        30
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        26,
+        28
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        26,
+        29
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        26,
+        30
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        27,
+        29
+      ]
+    },
+    {
+      "team_id": 5,
+      "discipline": "XD",
+      "player_ids": [
+        27,
+        30
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "MD",
+      "player_ids": [
+        31,
+        32
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "MD",
+      "player_ids": [
+        32,
+        33
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "WD",
+      "player_ids": [
+        34,
+        36
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "WD",
+      "player_ids": [
+        35,
+        36
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        31,
+        34
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        31,
+        35
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        31,
+        36
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        32,
+        34
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        32,
+        35
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        33,
+        34
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        33,
+        35
+      ]
+    },
+    {
+      "team_id": 6,
+      "discipline": "XD",
+      "player_ids": [
+        33,
+        36
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "MD",
+      "player_ids": [
+        43,
+        44
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "MD",
+      "player_ids": [
+        43,
+        45
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "WD",
+      "player_ids": [
+        46,
+        47
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "WD",
+      "player_ids": [
+        46,
+        48
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        43,
+        47
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        43,
+        48
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        44,
+        46
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        44,
+        47
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        44,
+        48
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        45,
+        46
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        45,
+        47
+      ]
+    },
+    {
+      "team_id": 8,
+      "discipline": "XD",
+      "player_ids": [
+        45,
+        48
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "MD",
+      "player_ids": [
+        1,
+        2
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "MD",
+      "player_ids": [
+        1,
+        3
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "WD",
+      "player_ids": [
+        4,
+        5
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "WD",
+      "player_ids": [
+        4,
+        6
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        1,
+        5
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        1,
+        6
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        2,
+        4
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        2,
+        5
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        2,
+        6
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        3,
+        4
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        3,
+        5
+      ]
+    },
+    {
+      "team_id": 1,
+      "discipline": "XD",
+      "player_ids": [
+        3,
+        6
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "MD",
+      "player_ids": [
+        61,
+        63
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "WD",
+      "player_ids": [
+        64,
+        66
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        61,
+        64
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        61,
+        65
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        62,
+        64
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        62,
+        65
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        62,
+        66
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        63,
+        65
+      ]
+    },
+    {
+      "team_id": 11,
+      "discipline": "XD",
+      "player_ids": [
+        63,
+        66
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "MD",
+      "player_ids": [
+        56,
+        57
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "WD",
+      "player_ids": [
+        58,
+        60
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "WD",
+      "player_ids": [
+        59,
+        60
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        55,
+        58
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        55,
+        59
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        55,
+        60
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        56,
+        58
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        56,
+        59
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        57,
+        58
+      ]
+    },
+    {
+      "team_id": 10,
+      "discipline": "XD",
+      "player_ids": [
+        57,
+        59
+      ]
+    }
+  ]
+}

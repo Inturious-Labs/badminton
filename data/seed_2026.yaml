@@ -1,0 +1,110 @@
+tournament:
+  name: 2026 上海国际及双语学校家长羽毛球春季赛
+  year: 2026
+  start_date: 2026-05-20
+  venue: 上海思凯羽毛球馆（海阳路 1040 弄 40 号）
+  notes: 12 teams · 2 groups of 6 · round-robin · top 2 advance to semis. Rubber order MD→XD→WD, single game to 21.
+
+# Group 1 (团体赛第1组) and Group 2 (团体赛第2组) per 秩序册 p.14.
+# Player gender from the * marker (* = female) per rulebook note on p.10.
+groups:
+  - name: 团体赛第1组
+    teams:
+      - name: 星河湾
+        players:
+          - { name: 丁源,     gender: M }
+          - { name: 盛永进,    gender: M }
+          - { name: 吴慧超,    gender: M }
+          - { name: 杨蓉,     gender: F }
+          - { name: 冯冬梅,    gender: F }
+          - { name: 吕春华,    gender: F }
+      - name: Concordia
+        players:
+          - { name: Eddy Wong,      gender: M }
+          - { name: Jun Jiang,      gender: M }
+          - { name: Xue Song Deng,  gender: M }
+          - { name: Isabella Wong,  gender: F }
+          - { name: Yuhui Zhang,    gender: F }
+          - { name: 肖向春,         gender: F }
+      - name: BISS
+        players:
+          - { name: Wayne Chang,  gender: M }
+          - { name: 蒋毅涛,        gender: M }
+          - { name: Kyooung sun,  gender: M }
+          - { name: 李荣双,        gender: F }
+          - { name: JIANGWEI,     gender: F }
+          - { name: 彭宥榛,        gender: F }
+      - name: 万科
+        players:
+          - { name: 杨乃章,  gender: M }
+          - { name: 朱伟鹏,  gender: M }
+          - { name: 张楠,    gender: M }
+          - { name: 李珺,    gender: F }
+          - { name: 潘燕飞,  gender: F }
+          - { name: 张璟,    gender: F }
+      - name: 平和青浦
+        players:
+          - { name: 王锦,    gender: M }
+          - { name: 王勇,    gender: M }
+          - { name: 龙连勇,  gender: M }
+          - { name: 崔素杰,  gender: F }
+          - { name: 王婷,    gender: F }
+          - { name: 魏晓倩,  gender: F }
+      - name: 惠灵顿
+        players:
+          - { name: 徐长利,  gender: M }
+          - { name: 曾程辉,  gender: M }
+          - { name: 钟郑超,  gender: M }
+          - { name: 张鸿雁,  gender: F }
+          - { name: 任白灵,  gender: F }
+          - { name: 林琦年,  gender: F }
+  - name: 团体赛第2组
+    teams:
+      - name: 平和浦东
+        players:
+          - { name: 褚劲华,  gender: M }
+          - { name: 吴文皓,  gender: M }
+          - { name: 黄金晨,  gender: M }
+          - { name: 王筱双,  gender: F }
+          - { name: 张芸,    gender: F }
+          - { name: 朱凤,    gender: F }
+      - name: 惠立
+        players:
+          - { name: 方伟,    gender: M }
+          - { name: 刘浩,    gender: M }
+          - { name: 车建国,  gender: M }
+          - { name: 黄静,    gender: F }
+          - { name: 邓咏莲,  gender: F }
+          - { name: 翟湘,    gender: F }
+      - name: 包玉刚
+        players:
+          - { name: 陈郁捷,     gender: M }
+          - { name: Bruce Lau,  gender: M }
+          - { name: 石文海,     gender: M }
+          - { name: 李杨,       gender: F }
+          - { name: 黄冰源,     gender: F }
+          - { name: Joanna Lim, gender: F }
+      - name: 诺达双语
+        players:
+          - { name: 孙雪,         gender: M }
+          - { name: 甘鹏,         gender: M }
+          - { name: 贾继成,        gender: M }
+          - { name: 任莉Livia,     gender: F }
+          - { name: 鲍璐菲Fay,     gender: F }
+          - { name: 周芬,         gender: F }
+      - name: 美校浦东
+        players:
+          - { name: 苏骏,         gender: M }
+          - { name: Kang Zhiwei,  gender: M }
+          - { name: 胡晨,         gender: M }
+          - { name: Li Li,        gender: F }
+          - { name: 金菲,         gender: F }
+          - { name: 葛韵,         gender: F }
+      - name: 协和浦东
+        players:
+          - { name: 张吉臻,  gender: M }
+          - { name: 沈友良,  gender: M }
+          - { name: 严明,    gender: M }
+          - { name: 陆颖华,  gender: F }
+          - { name: 陈思,    gender: F }
+          - { name: 冯丽君,  gender: F }

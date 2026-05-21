@@ -1,0 +1,365 @@
+# Tie data for 2026 上海国际及双语学校家长羽毛球春季赛
+# Source: WeChat mini-program screenshots in src/group-2/ (transcribed manually from images)
+#
+# Format notes:
+#   - Each tie has exactly 3 rubbers in group stage (rule: 打满全部项目)
+#   - Knockout ties may have only 2 rubbers if one side clinches 2-0 (rule: 不再进行第三场比赛)
+#   - Side A is always listed first in the screenshot (top row of the matchup header)
+#   - Discipline order in screenshots: MD (男双) → XD (混双) → WD (女双)
+#     (Rulebook specifies actual play order is MD → XD → WD, matching screenshot order)
+#   - Single game to 21, hard cap (no deuce)
+#
+# Player names match seed_2026.yaml exactly. Aliases not yet needed.
+
+tournament: 2026 上海国际及双语学校家长羽毛球春季赛
+
+ties:
+  # ============================================================
+  # GROUP 2 — round-robin (15 ties)
+  # ============================================================
+
+  # Round-robin: 平和浦东 vs 协和浦东 (平和 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 平和浦东
+    team_b: 协和浦东
+    rubbers:
+      - { discipline: MD, a: [吴文皓, 黄金晨],   a_score: 21, b: [沈友良, 严明],      b_score: 5 }
+      - { discipline: XD, a: [褚劲华, 朱凤],     a_score: 21, b: [张吉臻, 陆颖华],    b_score: 7 }
+      - { discipline: WD, a: [王筱双, 张芸],     a_score: 21, b: [陈思, 冯丽君],      b_score: 8 }
+
+  # Round-robin: 平和浦东 vs 美校浦东 (平和 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 平和浦东
+    team_b: 美校浦东
+    rubbers:
+      - { discipline: MD, a: [吴文皓, 黄金晨],   a_score: 21, b: [Kang Zhiwei, 胡晨], b_score: 7 }
+      - { discipline: XD, a: [褚劲华, 朱凤],     a_score: 21, b: [苏骏, 葛韵],         b_score: 19 }
+      - { discipline: WD, a: [王筱双, 张芸],     a_score: 21, b: [Li Li, 金菲],        b_score: 17 }
+
+  # Round-robin: 平和浦东 vs 诺达双语 (平和 2-1)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 平和浦东
+    team_b: 诺达双语
+    rubbers:
+      - { discipline: MD, a: [吴文皓, 黄金晨],   a_score: 21, b: [孙雪, 甘鹏],         b_score: 17 }
+      - { discipline: XD, a: [褚劲华, 朱凤],     a_score: 12, b: [贾继成, 周芬],       b_score: 21 }
+      - { discipline: WD, a: [王筱双, 张芸],     a_score: 21, b: [任莉Livia, 鲍璐菲Fay], b_score: 12 }
+
+  # Round-robin: 平和浦东 vs 包玉刚 (平和 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 平和浦东
+    team_b: 包玉刚
+    rubbers:
+      - { discipline: MD, a: [吴文皓, 黄金晨],   a_score: 21, b: [陈郁捷, 石文海],    b_score: 9 }
+      - { discipline: XD, a: [褚劲华, 朱凤],     a_score: 21, b: [Bruce Lau, 李杨],   b_score: 9 }
+      - { discipline: WD, a: [王筱双, 张芸],     a_score: 21, b: [黄冰源, Joanna Lim], b_score: 16 }
+
+  # Round-robin: 平和浦东 vs 惠立 (平和 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 平和浦东
+    team_b: 惠立
+    rubbers:
+      - { discipline: MD, a: [吴文皓, 黄金晨],   a_score: 21, b: [刘浩, 车建国],       b_score: 10 }
+      - { discipline: XD, a: [褚劲华, 朱凤],     a_score: 21, b: [方伟, 黄静],         b_score: 12 }
+      - { discipline: WD, a: [王筱双, 张芸],     a_score: 21, b: [邓咏莲, 翟湘],       b_score: 8 }
+
+  # Round-robin: 惠立 vs 美校浦东 (美校 2-1)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 惠立
+    team_b: 美校浦东
+    rubbers:
+      - { discipline: MD, a: [刘浩, 车建国],     a_score: 21, b: [胡晨, Kang Zhiwei], b_score: 20 }
+      - { discipline: XD, a: [方伟, 黄静],       a_score: 15, b: [苏骏, 葛韵],         b_score: 21 }
+      - { discipline: WD, a: [邓咏莲, 翟湘],     a_score: 5,  b: [Li Li, 金菲],        b_score: 21 }
+
+  # Round-robin: 协和浦东 vs 诺达双语 (诺达 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 协和浦东
+    team_b: 诺达双语
+    rubbers:
+      - { discipline: MD, a: [严明, 沈友良],     a_score: 8,  b: [甘鹏, 孙雪],         b_score: 21 }
+      - { discipline: XD, a: [张吉臻, 陆颖华],   a_score: 9,  b: [贾继成, 周芬],       b_score: 21 }
+      - { discipline: WD, a: [陈思, 冯丽君],     a_score: 8,  b: [鲍璐菲Fay, 任莉Livia], b_score: 21 }
+
+  # Round-robin: 美校浦东 vs 包玉刚 (美校 2-1)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 美校浦东
+    team_b: 包玉刚
+    rubbers:
+      - { discipline: MD, a: [苏骏, Kang Zhiwei], a_score: 21, b: [Bruce Lau, 石文海], b_score: 14 }
+      - { discipline: XD, a: [胡晨, Li Li],       a_score: 7,  b: [陈郁捷, Joanna Lim], b_score: 21 }
+      - { discipline: WD, a: [金菲, 葛韵],         a_score: 21, b: [李杨, 黄冰源],       b_score: 11 }
+
+  # Round-robin: 诺达双语 vs 惠立 (诺达 2-1)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 诺达双语
+    team_b: 惠立
+    rubbers:
+      - { discipline: MD, a: [孙雪, 甘鹏],         a_score: 21, b: [刘浩, 车建国],     b_score: 13 }
+      - { discipline: XD, a: [贾继成, 周芬],       a_score: 21, b: [方伟, 黄静],       b_score: 12 }
+      - { discipline: WD, a: [任莉Livia, 鲍璐菲Fay], a_score: 20, b: [邓咏莲, 翟湘],   b_score: 21 }
+
+  # Round-robin: 包玉刚 vs 协和浦东 (包玉刚 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 包玉刚
+    team_b: 协和浦东
+    rubbers:
+      - { discipline: MD, a: [Bruce Lau, 石文海],  a_score: 21, b: [沈友良, 严明],     b_score: 6 }
+      - { discipline: XD, a: [陈郁捷, Joanna Lim], a_score: 21, b: [张吉臻, 陆颖华],   b_score: 9 }
+      - { discipline: WD, a: [李杨, 黄冰源],         a_score: 21, b: [陈思, 冯丽君],     b_score: 5 }
+
+  # Round-robin: 包玉刚 vs 诺达双语 (包玉刚 2-1)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 包玉刚
+    team_b: 诺达双语
+    rubbers:
+      - { discipline: MD, a: [Bruce Lau, 石文海],  a_score: 19, b: [甘鹏, 孙雪],       b_score: 21 }
+      - { discipline: XD, a: [陈郁捷, 李杨],         a_score: 21, b: [贾继成, 周芬],     b_score: 10 }
+      - { discipline: WD, a: [黄冰源, Joanna Lim], a_score: 21, b: [鲍璐菲Fay, 任莉Livia], b_score: 10 }
+
+  # Round-robin: 惠立 vs 包玉刚 (包玉刚 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 惠立
+    team_b: 包玉刚
+    rubbers:
+      - { discipline: MD, a: [刘浩, 车建国],         a_score: 15, b: [Bruce Lau, 石文海], b_score: 21 }
+      - { discipline: XD, a: [方伟, 黄静],           a_score: 12, b: [陈郁捷, Joanna Lim], b_score: 21 }
+      - { discipline: WD, a: [邓咏莲, 翟湘],         a_score: 15, b: [李杨, 黄冰源],     b_score: 21 }
+
+  # Round-robin: 协和浦东 vs 惠立 (惠立 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 协和浦东
+    team_b: 惠立
+    rubbers:
+      - { discipline: MD, a: [沈友良, 严明],         a_score: 6,  b: [刘浩, 车建国],     b_score: 21 }
+      - { discipline: XD, a: [张吉臻, 陆颖华],       a_score: 12, b: [方伟, 黄静],       b_score: 21 }
+      - { discipline: WD, a: [陈思, 冯丽君],         a_score: 18, b: [邓咏莲, 翟湘],     b_score: 21 }
+
+  # Round-robin: 美校浦东 vs 协和浦东 (美校 3-0)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 美校浦东
+    team_b: 协和浦东
+    rubbers:
+      - { discipline: MD, a: [Kang Zhiwei, 胡晨],   a_score: 21, b: [沈友良, 严明],     b_score: 4 }
+      - { discipline: XD, a: [苏骏, 葛韵],           a_score: 21, b: [张吉臻, 陆颖华],   b_score: 10 }
+      - { discipline: WD, a: [Li Li, 金菲],          a_score: 21, b: [陈思, 冯丽君],     b_score: 9 }
+
+  # Round-robin: 诺达双语 vs 美校浦东 (诺达 2-1)
+  - stage: group
+    group: 团体赛第2组
+    team_a: 诺达双语
+    team_b: 美校浦东
+    rubbers:
+      - { discipline: MD, a: [孙雪, 甘鹏],           a_score: 21, b: [Kang Zhiwei, 胡晨], b_score: 17 }
+      - { discipline: XD, a: [贾继成, 周芬],         a_score: 21, b: [苏骏, 葛韵],       b_score: 14 }
+      - { discipline: WD, a: [任莉Livia, 鲍璐菲Fay], a_score: 12, b: [Li Li, 金菲],       b_score: 21 }
+
+  # ============================================================
+  # GROUP 1 — round-robin (15 ties)
+  # ============================================================
+
+  # Round-robin: 星河湾 vs 惠灵顿 (星河湾 3-0)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 星河湾
+    team_b: 惠灵顿
+    rubbers:
+      - { discipline: MD, a: [盛永进, 吴慧超],     a_score: 21, b: [徐长利, 钟郑超],   b_score: 10 }
+      - { discipline: XD, a: [丁源, 杨蓉],         a_score: 21, b: [林琦年, 曾程辉],   b_score: 6 }
+      - { discipline: WD, a: [冯冬梅, 吕春华],     a_score: 21, b: [任白灵, 张鸿雁],   b_score: 3 }
+
+  # Round-robin: 星河湾 vs 平和青浦 (星河湾 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 星河湾
+    team_b: 平和青浦
+    rubbers:
+      - { discipline: MD, a: [盛永进, 吴慧超],     a_score: 13, b: [王锦, 王勇],       b_score: 21 }
+      - { discipline: XD, a: [丁源, 杨蓉],         a_score: 21, b: [龙连勇, 崔素杰],   b_score: 11 }
+      - { discipline: WD, a: [冯冬梅, 吕春华],     a_score: 21, b: [王婷, 魏晓倩],     b_score: 2 }
+
+  # Round-robin: 星河湾 vs 万科 (星河湾 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 星河湾
+    team_b: 万科
+    rubbers:
+      - { discipline: MD, a: [盛永进, 吴慧超],     a_score: 19, b: [杨乃章, 朱伟鹏],   b_score: 21 }
+      - { discipline: XD, a: [丁源, 杨蓉],         a_score: 21, b: [张楠, 张璟],       b_score: 5 }
+      - { discipline: WD, a: [冯冬梅, 吕春华],     a_score: 21, b: [李珺, 潘燕飞],     b_score: 12 }
+
+  # Round-robin: 星河湾 vs BISS (星河湾 3-0)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 星河湾
+    team_b: BISS
+    rubbers:
+      - { discipline: MD, a: [盛永进, 吴慧超],     a_score: 21, b: [蒋毅涛, Kyooung sun], b_score: 15 }
+      - { discipline: XD, a: [丁源, 杨蓉],         a_score: 21, b: [Wayne Chang, 彭宥榛], b_score: 5 }
+      - { discipline: WD, a: [冯冬梅, 吕春华],     a_score: 21, b: [李荣双, JIANGWEI],    b_score: 8 }
+
+  # Round-robin: 星河湾 vs Concordia (星河湾 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 星河湾
+    team_b: Concordia
+    rubbers:
+      - { discipline: MD, a: [盛永进, 吴慧超],     a_score: 12, b: [Eddy Wong, Jun Jiang],         b_score: 21 }
+      - { discipline: XD, a: [丁源, 杨蓉],         a_score: 21, b: [Xue Song Deng, Isabella Wong], b_score: 18 }
+      - { discipline: WD, a: [冯冬梅, 吕春华],     a_score: 21, b: [Yuhui Zhang, 肖向春],           b_score: 11 }
+
+  # Round-robin: Concordia vs 平和青浦 (Concordia 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: Concordia
+    team_b: 平和青浦
+    rubbers:
+      - { discipline: MD, a: [Xue Song Deng, Jun Jiang],         a_score: 8,  b: [王锦, 王勇],           b_score: 21 }
+      - { discipline: XD, a: [Eddy Wong, Isabella Wong],         a_score: 21, b: [龙连勇, 崔素杰],       b_score: 15 }
+      - { discipline: WD, a: [肖向春, Yuhui Zhang],               a_score: 21, b: [王婷, 魏晓倩],         b_score: 14 }
+
+  # Round-robin: 惠灵顿 vs 万科 (万科 3-0)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 惠灵顿
+    team_b: 万科
+    rubbers:
+      - { discipline: MD, a: [徐长利, 钟郑超],     a_score: 14, b: [杨乃章, 朱伟鹏],   b_score: 21 }
+      - { discipline: XD, a: [曾程辉, 林琦年],     a_score: 10, b: [张楠, 李珺],       b_score: 21 }
+      - { discipline: WD, a: [张鸿雁, 任白灵],     a_score: 17, b: [潘燕飞, 张璟],     b_score: 21 }
+
+  # Round-robin: 平和青浦 vs BISS (平和青浦 3-0)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 平和青浦
+    team_b: BISS
+    rubbers:
+      - { discipline: MD, a: [王锦, 王勇],         a_score: 21, b: [蒋毅涛, Kyooung sun], b_score: 16 }
+      - { discipline: XD, a: [龙连勇, 崔素杰],     a_score: 21, b: [Wayne Chang, 彭宥榛], b_score: 12 }
+      - { discipline: WD, a: [王婷, 魏晓倩],       a_score: 21, b: [李荣双, JIANGWEI],    b_score: 15 }
+
+  # Round-robin: 万科 vs Concordia (Concordia 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 万科
+    team_b: Concordia
+    rubbers:
+      - { discipline: MD, a: [杨乃章, 朱伟鹏],     a_score: 11, b: [Eddy Wong, Jun Jiang],         b_score: 21 }
+      - { discipline: XD, a: [张楠, 潘燕飞],       a_score: 21, b: [Xue Song Deng, 肖向春],         b_score: 11 }
+      - { discipline: WD, a: [李珺, 张璟],         a_score: 16, b: [Isabella Wong, Yuhui Zhang],   b_score: 21 }
+
+  # Round-robin: BISS vs 惠灵顿 (BISS 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: BISS
+    team_b: 惠灵顿
+    rubbers:
+      - { discipline: MD, a: [蒋毅涛, Kyooung sun], a_score: 14, b: [徐长利, 钟郑超],   b_score: 21 }
+      - { discipline: XD, a: [Wayne Chang, 彭宥榛], a_score: 21, b: [曾程辉, 林琦年],   b_score: 14 }
+      - { discipline: WD, a: [李荣双, JIANGWEI],    a_score: 21, b: [张鸿雁, 任白灵],   b_score: 20 }
+
+  # Round-robin: BISS vs 万科 (万科 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: BISS
+    team_b: 万科
+    rubbers:
+      - { discipline: MD, a: [蒋毅涛, Kyooung sun], a_score: 18, b: [杨乃章, 朱伟鹏],   b_score: 21 }
+      - { discipline: XD, a: [彭宥榛, Wayne Chang], a_score: 21, b: [张璟, 张楠],       b_score: 12 }
+      - { discipline: WD, a: [李荣双, JIANGWEI],    a_score: 9,  b: [李珺, 潘燕飞],     b_score: 21 }
+
+  # Round-robin: Concordia vs BISS (Concordia 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: Concordia
+    team_b: BISS
+    rubbers:
+      - { discipline: MD, a: [Eddy Wong, Jun Jiang],         a_score: 21, b: [蒋毅涛, Kyooung sun], b_score: 5 }
+      - { discipline: XD, a: [Xue Song Deng, Isabella Wong], a_score: 20, b: [Wayne Chang, 彭宥榛], b_score: 21 }
+      - { discipline: WD, a: [Yuhui Zhang, 肖向春],           a_score: 21, b: [李荣双, JIANGWEI],    b_score: 14 }
+
+  # Round-robin: 惠灵顿 vs Concordia (Concordia 3-0)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 惠灵顿
+    team_b: Concordia
+    rubbers:
+      - { discipline: MD, a: [徐长利, 钟郑超],     a_score: 17, b: [Eddy Wong, Jun Jiang],         b_score: 21 }
+      - { discipline: XD, a: [曾程辉, 林琦年],     a_score: 12, b: [Xue Song Deng, Isabella Wong], b_score: 21 }
+      - { discipline: WD, a: [张鸿雁, 任白灵],     a_score: 17, b: [Yuhui Zhang, 肖向春],           b_score: 21 }
+
+  # Round-robin: 平和青浦 vs 惠灵顿 (平和青浦 2-1)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 平和青浦
+    team_b: 惠灵顿
+    rubbers:
+      - { discipline: MD, a: [王锦, 王勇],         a_score: 21, b: [徐长利, 钟郑超],   b_score: 8 }
+      - { discipline: XD, a: [龙连勇, 崔素杰],     a_score: 21, b: [曾程辉, 林琦年],   b_score: 18 }
+      - { discipline: WD, a: [王婷, 魏晓倩],       a_score: 13, b: [张鸿雁, 任白灵],   b_score: 21 }
+
+  # Round-robin: 万科 vs 平和青浦 (万科 3-0)
+  - stage: group
+    group: 团体赛第1组
+    team_a: 万科
+    team_b: 平和青浦
+    rubbers:
+      - { discipline: MD, a: [杨乃章, 朱伟鹏],     a_score: 21, b: [王锦, 王勇],       b_score: 19 }
+      - { discipline: XD, a: [张楠, 潘燕飞],       a_score: 21, b: [龙连勇, 崔素杰],   b_score: 20 }
+      - { discipline: WD, a: [李珺, 张璟],         a_score: 21, b: [王婷, 魏晓倩],     b_score: 7 }
+
+  # ============================================================
+  # KNOCKOUT STAGE
+  # ============================================================
+
+  # XT-201 semifinal: 星河湾 (G1 #1) vs 诺达双语 (G2 #2) — 星河湾 won 2-1
+  - stage: semifinal
+    match_number: 201
+    team_a: 星河湾
+    team_b: 诺达双语
+    rubbers:
+      - { discipline: MD, a: [盛永进, 吴慧超],     a_score: 18, b: [孙雪, 贾继成],     b_score: 21 }
+      - { discipline: XD, a: [丁源, 杨蓉],         a_score: 21, b: [甘鹏, 周芬],       b_score: 10 }
+      - { discipline: WD, a: [冯冬梅, 吕春华],     a_score: 21, b: [任莉Livia, 鲍璐菲Fay], b_score: 5 }
+
+  # XT-202 semifinal: Concordia (G1 #2) vs 平和浦东 (G2 #1) — 平和浦东 won 2-0
+  - stage: semifinal
+    match_number: 202
+    team_a: Concordia
+    team_b: 平和浦东
+    rubbers:
+      - { discipline: MD, a: [Eddy Wong, Jun Jiang],         a_score: 15, b: [褚劲华, 黄金晨],   b_score: 21 }
+      - { discipline: XD, a: [Xue Song Deng, 肖向春],         a_score: 8,  b: [吴文皓, 朱凤],     b_score: 21 }
+
+  # XT-203 third-place playoff: 诺达双语 vs Concordia — 诺达双语 won 2-0
+  - stage: third_place
+    match_number: 203
+    team_a: 诺达双语
+    team_b: Concordia
+    rubbers:
+      - { discipline: MD, a: [孙雪, 甘鹏],         a_score: 21, b: [Jun Jiang, Xue Song Deng], b_score: 16 }
+      - { discipline: XD, a: [贾继成, 周芬],       a_score: 21, b: [Eddy Wong, Isabella Wong], b_score: 17 }
+
+  # XT-204 final: 星河湾 (G1 #1) vs 平和浦东 (G2 #1) — 星河湾 won 2-1
+  - stage: final
+    match_number: 204
+    team_a: 星河湾
+    team_b: 平和浦东
+    rubbers:
+      - { discipline: MD, a: [盛永进, 吴慧超],     a_score: 11, b: [褚劲华, 黄金晨],   b_score: 21 }
+      - { discipline: XD, a: [丁源, 杨蓉],         a_score: 21, b: [吴文皓, 张芸],     b_score: 7 }
+      - { discipline: WD, a: [冯冬梅, 吕春华],     a_score: 21, b: [王筱双, 朱凤],     b_score: 7 }
