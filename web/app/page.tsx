@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { DisciplineBreakdown } from "@/components/DisciplineBreakdown";
 import { JourneyChart } from "@/components/JourneyChart";
 import { PairLeaderboards } from "@/components/PairLeaderboards";
 import { PodiumSummary } from "@/components/PodiumSummary";
@@ -111,6 +112,23 @@ export default function Page() {
                 </li>
               </ul>
             </div>
+          </div>
+        </section>
+
+        <section id="disciplines" className="mb-12 scroll-mt-16">
+          <div className="px-1 mb-4 max-w-2xl [overflow-wrap:anywhere]">
+            <h2 className="text-xl font-semibold">Discipline Breakdown</h2>
+            <p className="text-sm text-zinc-600 mt-1">
+              Group-stage record per team in Men&apos;s Doubles, Mixed Doubles, and Women&apos;s
+              Doubles. Each team plays 5 ties × 3 disciplines = 15 rubbers in the group stage.
+              Teams sorted by total rubbers won.
+            </p>
+            <p className="text-sm text-zinc-600 mt-2 leading-relaxed">
+              各队在小组赛阶段男双、混双、女双三个项目的胜负记录。每支队伍在小组赛中打 5 场对抗，每场对抗包含 3 个单项（男双、混双、女双），共计 15 局。各队按小组赛总胜局数从多到少排序。胜局向左延伸（深色），负局向右延伸（浅色）。
+            </p>
+          </div>
+          <div className="bg-white border border-zinc-200 rounded-lg p-3 sm:p-5">
+            <DisciplineBreakdown data={data} />
           </div>
         </section>
 

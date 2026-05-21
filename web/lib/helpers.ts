@@ -84,3 +84,62 @@ export function getSurpriseAdvancers(data: TournamentData): Set<number> {
   }
   return surprises;
 }
+
+// Group-stage discipline W-L per team. Each team plays exactly 5 ties in the
+// round-robin, so each (team, discipline) row has wins+losses === 5.
+export interface DisciplineRecord {
+  team_id: number;
+  team_name: string;
+  group_id: number;
+  total_wins: number; // sum of wins across MD+XD+WD = team's tie wins counted thrice... no, see below
+  per_discipline: {
+    MD: { wins: number; losses: number };
+    XD: { wins: number; losses: number };
+    WD: { wins: number; losses: number };
+  };
+}
+
+export function getDisciplineRecords(data: TournamentData): DisciplineRecord[] {
+  const tiesByid = new Map(data.ties.map((t) => [t.id, t]));
+  const recordsByTeam = new Map<number, DisciplineRecord>();
+
+  for (const team of data.teams) {
+    recordsByTeam.set(team.id, {
+      team_id: team.id,
+      team_name: team.name,
+      group_id: team.group_id ?? 0,
+      total_wins: 0,
+      per_discipline: {
+        MD: { wins: 0, losses: 0 },
+        XD: { wins: 0, losses: 0 },
+        WD: { wins: 0, losses: 0 },
+      },
+    });
+  }
+
+  // Walk every pair_stat deployment, filter to group-stage rubbers
+  for (const ps of data.pair_stats) {
+    const rec = recordsByTeam.get(ps.team_id);
+    if (!rec) continue;
+    for (const d of ps.deployments) {
+      const tie = tiesByid.get(d.tie_id);
+      if (!tie || tie.stage !== "group") continue;
+      const won = d.our_score > d.opp_score;
+      if (won) rec.per_discipline[ps.discipline].wins += 1;
+      else rec.per_discipline[ps.discipline].losses += 1;
+    }
+  }
+
+  // total_wins for sorting: sum of (MD wins + XD wins + WD wins). This equals
+  // the team's total rubbers won across the 5 group-stage ties.
+  for (const rec of recordsByTeam.values()) {
+    rec.total_wins =
+      rec.per_discipline.MD.wins +
+      rec.per_discipline.XD.wins +
+      rec.per_discipline.WD.wins;
+  }
+
+  return Array.from(recordsByTeam.values()).sort(
+    (a, b) => b.total_wins - a.total_wins || a.team_name.localeCompare(b.team_name, "zh"),
+  );
+}
